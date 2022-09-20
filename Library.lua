@@ -14,7 +14,7 @@ local ScreenGui = Instance.new('ScreenGui');
 ProtectGui(ScreenGui);
 
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global;
-ScreenGui.Name = "TableHub_UI";
+ScreenGui.Name = "TableHub_UI"
 ScreenGui.Parent = CoreGui;
 
 local Toggles = {};
